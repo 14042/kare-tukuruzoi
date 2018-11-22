@@ -1,0 +1,82 @@
+[33mcommit 222590b5de5a980af09f4334bf5fde4028d8d54f[m
+Author: 小川 桃佳 <14042@jnet03-n.jnet.hakodate-ct.ac.jp>
+Date:   Thu Nov 22 11:27:54 2018 +0900
+
+    上追加
+
+[33mcommit f1f55028d2b77cb0fe65761298ff08b53140ad97[m
+Merge: 45cd752 4bf2571
+Author: 14108 <14108@hakodate.kosen-ac.jp>
+Date:   Thu Nov 22 11:10:37 2018 +0900
+
+    alice追加
+
+[33mcommit 45cd7525c30d7fad2119032da9bd0958fbf73010[m
+Merge: 28da419 e458116
+Author: 14108 <14108@hakodate.kosen-ac.jp>
+Date:   Thu Nov 22 11:08:58 2018 +0900
+
+    alice追加
+
+[33mcommit 4bf2571e24a45be6e031a4a5875de6d581ac87c9[m
+Merge: 968e405 e458116
+Author: klaray <ryousuke.0501.tr@gmail.com>
+Date:   Thu Nov 22 11:07:50 2018 +0900
+
+    バス追加
+
+[33mcommit 28da419aceaa8ff67f39d8661da5e2c7ef2baafe[m
+Merge: ac46a9c f4e895a
+Author: 14108 <14108@hakodate.kosen-ac.jp>
+Date:   Thu Nov 22 11:06:57 2018 +0900
+
+    alice追加
+
+[33mcommit 968e405ac8d399d4fc0537174cc139fa5e36811d[m
+Merge: b65176e f4e895a
+Author: klaray <ryousuke.0501.tr@gmail.com>
+Date:   Thu Nov 22 11:05:20 2018 +0900
+
+    バス追加
+
+[33mcommit e45811699fd4106500b06fd6d788d1b077a3071c[m
+Author: takuro99127 <takuro127@ezweb.ne.jp>
+Date:   Thu Nov 22 11:01:57 2018 +0900
+
+    wami追加
+
+[33mcommit ac46a9c72218a153f61844a35465b5d7fd2fe269[m
+Author: 14108 <14108@hakodate.kosen-ac.jp>
+Date:   Thu Nov 22 10:56:20 2018 +0900
+
+    alice追加
+
+[33mcommit b65176efb6ea12455ebc1d448a97315f27a0a2b2[m
+Author: klaray <ryousuke.0501.tr@gmail.com>
+Date:   Thu Nov 22 10:50:13 2018 +0900
+
+    バス追加
+
+[33mcommit f4e895a1f333151cc31c94d2a2a93feb050eb623[m
+Author: 小川 桃佳 <14042@jnet03-n.jnet.hakodate-ct.ac.jp>
+Date:   Thu Nov 22 10:50:09 2018 +0900
+
+    Popuko追加
+
+[33mcommit 8f9884f05f7d4445c4c267c29c6914d2817b913d[m
+Author: 小川 桃佳 <14042@jnet03-n.jnet.hakodate-ct.ac.jp>
+Date:   Thu Nov 22 10:31:05 2018 +0900
+
+    kare-追加
+
+[33mcommit aa96d16ebd364d15ea92439c3faa98016bf8f646[m
+Author: 小川 桃佳 <14042@jnet03-n.jnet.hakodate-ct.ac.jp>
+Date:   Thu Nov 22 10:18:16 2018 +0900
+
+    gitignore 追加
+
+[33mcommit c58fee8b12380f1176249850b46c65ad06bfba75[m
+Author: 14042 <44043219+14042@users.noreply.github.com>
+Date:   Thu Nov 8 10:33:32 2018 +0900
+
+    Initial commit
