@@ -14,12 +14,12 @@ public class Popuko extends Actor
      */
     public void act() 
     {
-<<<<<<< HEAD
+
         if( Greenfoot.isKeyDown( "up" ) ){
-        setRotation(0);
+        setRotation(270);
         move(1);
 }// Add your action code here.
-=======
+
 
         if( Greenfoot.isKeyDown( "left" )){
             setRotation(180);
@@ -39,7 +39,7 @@ public class Popuko extends Actor
             move(1);
         }
 
->>>>>>> acf6c0cce4c0b7a0fb2d0e71698110d2c2e418ba
+
     }    
 }
-}
+
